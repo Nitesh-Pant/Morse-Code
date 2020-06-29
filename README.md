@@ -1,5 +1,9 @@
 # Morse-Code
 
+Morse code generator and vice-versa
+@java 
+
+https://213.tech.blog/
 
 ## preview for morse code to text
 ![english to](https://user-images.githubusercontent.com/43149109/85971183-10966900-b9ea-11ea-9421-08eab1cc599f.png)
